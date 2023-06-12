@@ -1,1 +1,9 @@
-# EOD-REPORT
+Had a meeting with Team lead at start of the day where she tell me about How and why EOD report should be without spelling mistake and not be vague .
+Then I had took a Microsoft training .
+After this I had  a meeting with team lead where she explain about silk , below are the points what i have learnt:
+Silk Crop aims to establish a community focused on learning various skills and utilizing them to earn income while contributing to society. The primary mission is to create a peaceful community, particularly in terms of financial stability. The initiative primarily targets women and their children, aiming to empower them emotionally and mentally, fostering a balanced and healthy lifestyle.
+
+The foundation of Silk Crop rests upon the belief that both physical and mental strength are essential for a healthy life. Inner peace and maintaining a healthy lifestyle are key aspects of personal strength. The core values of Silk Crop include integrity, which involves acting honestly and lovingly for the benefit of others. Love is considered the ultimate objective, encompassing harmony, self-love (taking care of one's own needs and mental health), and love for others within the community.
+Knowledge is highly valued within Silk Crop, promoting intellectual growth, awareness of the surroundings, and the diversification of skills. The focus of Silk Crop is on women's strengths, recognizing that women in many parts of the world face disadvantages. Therefore, Silk Women are encouraged to become entrepreneurs and businesswomen, providing support and financial literacy to women from various regions, not limited to the United States.
+Moreover, we aims to explore the future of silk production, yachting, and culture tommorow .
+then I  have discuss My MS teams problem with trainers that it is not sharing any file.
